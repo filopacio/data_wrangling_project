@@ -1,5 +1,5 @@
 # data_wrangling_project
-My project for the Data Wrangling course at VU, Amsterdam
+My final project for the Data Wrangling course at VU, Amsterdam
 
 **References**
 
